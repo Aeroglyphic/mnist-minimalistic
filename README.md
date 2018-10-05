@@ -1,4 +1,6 @@
-# mnist1
+# MNIST in Vue and TF.js
+
+A minimalistic example, based on https://github.com/akimach/tensorflow17-sampler.
 
 ## Project setup
 ```
